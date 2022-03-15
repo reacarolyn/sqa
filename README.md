@@ -1,9 +1,6 @@
 <html>
 <body>
-  <h1>Rea Carolyn</h1>
-  <p>Welcome to my website!</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
-  
+
   <h2>ABOUT ME</h2>
     <p>I am Rea Carolyn,  a freelance QA tester based in Santa Clara, CA. I love high quality websites and apps that are sleek-looking, organized, modern and minimal. I see bugs quickly because I am a perfectionist. My inspiration is my love of  interior design, home organizing and the art of photography. I also  love solving math problems and puzzles. </p>
   
