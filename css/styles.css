@@ -71,6 +71,27 @@ padding: 50px 0 20px;
 .list-skills {
     text-align: left;
     line-height: 2;
+    color: #40514E;
+    margin:0;
+    text-align: left;
+    font-family: 'Merriweather', serif;
+}
+
+.list-hobby {
+    text-align: left;
+    line-height: 2;  
+    margin:0;
+    text-align: left;
+}
+
+.hobby {
+    color: #11999E;
+    font-family: 'Merriweather', serif;
+    text-decoration: none;
+}
+
+.hobby:hover {
+    color: #2f4f4f;
 }
 
 .sqa {
